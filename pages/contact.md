@@ -1,12 +1,14 @@
 ---
 layout: page
 title: "Contact"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+meta_title: "contact"
+subheadline:
+teaser: "Questions ? Comments ? Contact us !"
 permalink: "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
 
 
- [1]: http://www.wufoo.com/
+Write to <a href="mailto:wpadmin@berlinmalayalee.com">wpadmin@berlinmalayalee.com</a>
+
+
+We are a team which speaks Malayalam , English and German.
