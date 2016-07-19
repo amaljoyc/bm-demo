@@ -10,7 +10,7 @@ header:
 widget1:
   title: "Blog Posts"
   url: '/blog/'
-  image: widget-1-302x182.jpg
+  image: thaila.jpg
   text: 'Find all the latest posts/news regarding this wonderful group here'
 
 widget2:
@@ -22,7 +22,7 @@ widget2:
 widget3:
   title: "Facebook Group"
   url: 'https://www.facebook.com/groups/berlinmalayalee/'
-  image: widget-github-303x182.jpg
+  image: 3.jpg
   text: 'We also have a facebook group. Have a look and decide if you would like to join in our facebook community'
 
 permalink: /index.html
