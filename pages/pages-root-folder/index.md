@@ -16,7 +16,7 @@ widget1:
 widget2:
   title: "About"
   url: '/about/'
-  image: widget-1-302x182.jpg
+  image: tv-tower.jpg
   text: 'Want to know more about this group like who we are and what we do?'
 
 widget3:
