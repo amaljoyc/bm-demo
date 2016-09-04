@@ -8,6 +8,7 @@ teaser: "The 70th Independence Day of India would be celebrated on Monday, Augus
 header: no
 image:
     title: india-flag.jpg
+    thumb: india-flag.jpg
 ---
 
 as per the following programme:
@@ -19,6 +20,7 @@ as per the following programme:
 1130 hrs.    Refreshments
 
 Please do attend the function and also circulate information amongst Indians, PIOs and Friends of India in Berlin and nearby areas.
+
 With Best wishes.
 
 (T. V. Ravichandran)
