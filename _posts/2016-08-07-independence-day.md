@@ -1,5 +1,6 @@
 ---
 layout: page
+id: "independence"
 comments: true
 subheadline:
 title: "India’s 70th Independence Day Celebrations"

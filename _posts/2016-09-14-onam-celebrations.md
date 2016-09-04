@@ -1,5 +1,6 @@
 ---
 layout: page
+id: "onam"
 comments: true
 subheadline: എല്ലാവര്ക്കും ഹൃദയം നിറഞ്ഞ ഓണാശംസകൾ 
 title: "Onam Celebrations 2016"
