@@ -17,7 +17,7 @@ slogan: 'From Pravasi Malayalees for Malayalees'
 description: '»Berlin Malayalee« is a project by Malayalees for Malyalees and all those who are interested worldwide.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created by <a href="https://amaljoyc.github.io/about">amaljoyc</a>.</p>'
+credits: '<p>created by <a href="https://amaljoyc.github.io/about">amaljoyc</a></p>'
 
 # Main author of the website
 # See > authors.yml
@@ -42,7 +42,7 @@ urlimg: 'https://amaljoyc.github.io/bm-demo/images/' # update this
 
 
 # Logo size is 600x80 pixels
-logo: "bm-logo.png"
+logo: "logo-text.gif"
 
 
 #       ____              _             __  _
@@ -156,18 +156,6 @@ bing_webmastertools_id:    ''
 #                                                 More information » https://mathiasbynens.be/notes/touch-icons
 
 favicon-32x32:                          'favicon-32x32.png'
-touch-icon-192x192:                     'touch-icon-192x192.png'
-apple-touch-icon-180x180-precomposed:   'apple-touch-icon-180x180-precomposed.png'
-apple-touch-icon-152x152-precomposed:   'apple-touch-icon-152x152-precomposed.png'
-apple-touch-icon-144x144-precomposed:   'apple-touch-icon-144x144-precomposed.png'
-apple-touch-icon-120x120-precomposed:   'apple-touch-icon-120x120-precomposed.png'
-apple-touch-icon-114x114-precomposed:   'apple-touch-icon-114x114-precomposed.png'
-apple-touch-icon-76x76-precomposed:     'apple-touch-icon-76x76-precomposed.png'
-apple-touch-icon-72x72-precomposed:     'apple-touch-icon-72x72-precomposed.png'
-apple-touch-icon-precomposed:           'apple-touch-icon-precomposed.png'
-msapplication_tileimage:                'msapplication_tileimage.png'               # Size 144x144
-msapplication_tilecolor:                '#fabb00'
-
 
 #       ______                __                __
 #      / ____/___ _________  / /_  ____  ____  / /__

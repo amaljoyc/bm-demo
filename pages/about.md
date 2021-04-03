@@ -3,7 +3,7 @@ layout: page
 title: "About"
 meta_title: "about"
 subheadline:
-teaser: "Namaskaram!"
+teaser: "നമസ്കാരം!"
 permalink: "/about/"
 ---
 
